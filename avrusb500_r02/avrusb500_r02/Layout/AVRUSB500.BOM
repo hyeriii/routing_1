@@ -1,0 +1,35 @@
+avrusb ISP stk500 / original by tuxgraphics.org  Revised: Wednesday, September 20, 2006
+0          Revision: 0
+
+
+
+
+
+
+
+Bill Of Materials      September 20,2006      16:13:16	Page1
+
+"{Value}"	"PCB Footprint"	"FPLIST"
+______________________________________________
+
+"47nF"	"CPCYL1/D.225/LS.100/.031"	""
+"27pF"	"CPCYL1/D.225/LS.100/.031"	""
+"100nF"	"CPCYL1/D.225/LS.100/.031"	""
+"1uF"	"CPCYL1/D.225/LS.100/.031"	""
+"22nF"	"CPCYL1/D.225/LS.100/.031"	""
+"LED"	"CYL/D.250/LS.125/.031"	""
+"ATmega8"	"SOJ.050/28/WB.350/L.700"	"DIP.100/28/W.300/L1.375,JEDEC_MS-026"
+"bbpg_Bitbang"	"BLKCON.100/VH/TM1SQS/W.100/5"	""
+"USBA"	"BLKCON.100/VH/TM1SQS/W.100/4"	"USB_MINI-B"
+"avrusb500_out"	"BLKCON.100/VH/TM1SQS/W.100/5"	""
+"firmware_in"	"BLKCON.100/VH/TM1SQS/W.100/5"	""
+"470"	"AX/.400X.100/.031"	""
+"220"	"AX/.400X.100/.031"	""
+"27"	"AX/.400X.100/.031"	""
+"1.5k"	"AX/.400X.100/.031"	""
+"2.2"	"AX/.400X.100/.031"	""
+"10k"	"AX/.400X.100/.031"	""
+"1k"	"AX/.400X.100/.031"	""
+"FT232BM"	"QUAD.80M/32/WG9.00"	"JEDEC_MS-026"
+"3.6864Mhz"	"RAD/.300X.150/LS.200/.031"	"RAD/.450X.200/LS.300/.031"
+"6Mhz"	"RAD/.300X.150/LS.200/.031"	"RAD/.450X.200/LS.300/.031"

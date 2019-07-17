@@ -1,0 +1,19 @@
+\t (00:00:03) allegro 16.6 S034 (v16-6-112CQ) Windows 32
+\t (00:00:03)     Journal start - Wed Jul 17 11:45:17 2019
+\t (00:00:03)         Host=USER-PC User=user Pid=844 CPUs=4
+\t (00:00:03) CmdLine= allegro.exe -p .
+\t (00:00:03) 
+   (00:00:03) ilinit Start.
+   (00:00:03) "C:/Users/user/Desktop/vscode_orcad/home/pcbenv"
+\e (00:00:09) Retrieval of 'Allegro_studio' license failed: 'ERROR (LMF-13015): License call failed for feature PCB_design_studio. The license server search path is defined as 5286@localhost. The FLEXnet error message is as follows,
+    FLEXnet ERROR(-15, 234, 10061): Cannot connect to license server system.
+
+Run 'lic_error LMF-13015' for more information.'. Report the licenses in use log via the menu item File->Viewlog: license_use.log
+\i (00:00:15) fillin confirm
+\i (00:00:18) fillin Allegro_performance    
+\e (00:00:23) Retrieval of 'Allegro_studio' license failed: 'ERROR (LMF-13015): License call failed for feature PCB_design_studio. The license server search path is defined as 5286@localhost. The FLEXnet error message is as follows,
+    FLEXnet ERROR(-15, 234, 10061): Cannot connect to license server system.
+
+Run 'lic_error LMF-13015' for more information.'. Report the licenses in use log via the menu item File->Viewlog: license_use.log
+\i (00:00:25) fillin confirm
+\t (00:00:25)     Journal end - Wed Jul 17 11:45:39 2019

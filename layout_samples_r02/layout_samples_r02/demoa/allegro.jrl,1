@@ -1,0 +1,15 @@
+\t (00:00:13) allegro 16.6 S034 (v16-6-112CQ) Windows 32
+\t (00:00:13)     Journal start - Wed Jul 17 10:55:46 2019
+\t (00:00:13)         Host=USER-PC User=user Pid=8116 CPUs=4
+\t (00:00:13) CmdLine= allegro.exe -p .
+\t (00:00:13) 
+\d (00:00:13) Design opened: C:/Users/user/Desktop/ex/samples/layout_samples_r02/layout_samples_r02/demoa/demoa2.brd
+\i (00:00:13) generaledit 
+\i (00:00:13) zoom in 1 
+\i (00:00:13) setwindow pcb
+\i (00:00:13) zoom in 955.5 -105.0
+\i (00:00:13) trapsize 186
+\i (00:04:07) pick grid 1836.9 -822.8
+\t (00:04:07) last pick:  1800.0 -800.0
+\i (00:04:09) exit 
+\t (00:04:09)     Journal end - Wed Jul 17 10:59:42 2019
