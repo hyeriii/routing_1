@@ -1,6 +1,6 @@
 \t (00:00:03) allegro 16.6 S034 (v16-6-112CQ) Windows 32
-\t (00:00:03)     Journal start - Wed Jul 17 11:45:49 2019
-\t (00:00:03)         Host=USER-PC User=user Pid=5600 CPUs=4
+\t (00:00:03)     Journal start - Thu Jul 18 09:46:52 2019
+\t (00:00:03)         Host=USER-PC User=user Pid=5816 CPUs=4
 \t (00:00:03) CmdLine= allegro.exe -p .
 \t (00:00:03) 
    (00:00:03) ilinit Start.
@@ -9,12 +9,12 @@
 \i (00:00:04) trapsize 1627
 \i (00:00:04) trapsize 1598
 \i (00:00:04) trapsize 1632
-\i (00:00:05) trapsize 1442
-\i (00:00:05) trapsize 2986
+\i (00:00:04) trapsize 1445
+\i (00:00:04) trapsize 2986
 \i (00:00:05) generaledit 
-\i (00:00:26) open 
-\i (00:00:31) fillin "C:\Users\user\Desktop\ex\samples\layout_samples_r02\layout_samples_r02\demoa\demoa2.brd"
-\i (00:00:31) cd "C:\Users\user\Desktop\ex\samples\layout_samples_r02\layout_samples_r02\demoa"
-\t (00:00:31) Opening existing design...
-\i (00:00:31) trapsize 372
-\t (00:00:31)     Journal end - Wed Jul 17 11:46:17 2019
+\i (00:00:13) open 
+\i (00:00:20) fillin "C:\Users\user\Desktop\ex\samples\layout_samples_r02\layout_samples_r02\democ\democ2.brd"
+\i (00:00:20) cd "C:\Users\user\Desktop\ex\samples\layout_samples_r02\layout_samples_r02\democ"
+\t (00:00:20) Opening existing design...
+\i (00:00:20) trapsize 158
+\t (00:00:20)     Journal end - Thu Jul 18 09:47:10 2019

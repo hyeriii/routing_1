@@ -2829,4 +2829,78 @@
 \t (02:51:52) last pick:  300.0 1275.0
 \t (02:51:52) Pick first element.
 \t (02:51:52) last pick:  300.0 1300.0
-\t (02:51:52) Target Symbol Pi
+\t (02:51:52) Target Symbol Pin is defined from TOP to BOTTOM.
+\t (02:51:52) last pick:  300.0 1300.0
+\i (02:51:57) pick grid 435.8 1399.9
+\t (02:51:57) last pick:  425.0 1400.0
+\t (02:51:57) No DRC errors detected.
+\i (02:51:59) pick grid 937.4 1405.1
+\t (02:51:59) last pick:  925.0 1400.0
+\t (02:51:59) No DRC errors detected.
+\i (02:51:59) mouse_pos 958.3 1332.0
+\i (02:52:00) mouse_pos 963.5 1363.3
+\i (02:52:01) mouse_pos 981.8 1337.2
+\i (02:52:02) mouse_pos 994.9 1363.3
+\i (02:52:03) mouse_pos 989.6 1337.2
+\i (02:52:05) mouse_pos 950.4 1352.9
+\i (02:52:06) mouse_pos 1002.7 1337.2
+\i (02:52:07) pick grid 1010.5 1300.6
+\t (02:52:07) last pick:  1000.0 1300.0
+\t (02:52:07) No DRC errors detected.
+\t (02:52:07) Pick first element.
+\i (02:52:11) pick grid 613.4 1107.3
+\t (02:52:11) last pick:  625.0 1100.0
+\t (02:52:11) Pick first element.
+\t (02:52:11) last pick:  600.0 1100.0
+\t (02:52:11) Target Symbol Pin is defined from TOP to BOTTOM.
+\t (02:52:11) last pick:  600.0 1100.0
+\i (02:52:16) mouse_pos 1263.9 1112.5
+\i (02:52:17) pick grid 1263.9 1107.3
+\t (02:52:17) last pick:  1275.0 1100.0
+\t (02:52:17) No DRC errors detected.
+\t (02:52:17) Pick first element.
+\i (02:52:18) prepopup 2026.8 1154.3
+\i (02:52:19) done 
+\i (02:52:19) generaledit 
+\i (02:52:28) status 
+\i (02:52:28) generaledit 
+\i (02:52:34) setwindow form.status
+\i (02:52:34) FORM status done  
+\i (02:52:36) setwindow pcb
+\i (02:52:36) save 
+\i (02:52:37) fillin yes 
+\i (02:52:37) generaledit 
+\i (02:57:37) trapsize 93
+\i (02:57:49) artwork 
+\i (02:57:50) setwindow form.film_control
+\i (02:57:50) FORM film_control ok  
+\i (02:57:51) setwindow pcb
+\i (02:57:51) generaledit 
+\i (02:57:53) zoom out 1 
+\i (02:57:53) setwindow pcb
+\i (02:57:53) zoom out 1360.5 345.2
+\i (02:57:53) trapsize 186
+\i (02:58:00) artwork 
+\i (02:58:03) setwindow form.film_control
+\i (02:58:03) FORM film_control ok  
+\i (02:58:03) setwindow pcb
+\i (02:58:03) generaledit 
+\i (02:58:13) showhide vis 
+\i (02:58:13) trapsize 261
+\i (02:58:13) generaledit 
+\i (02:58:17) setwindow form.vf_vis
+\i (02:58:17) FORM vf_vis colorview_list Film: BOTTOM 
+\i (02:58:20) FORM vf_vis colorview_list Film: TOP 
+\i (02:58:26) FORM vf_vis 1 all_colorvisible YES 
+\i (02:58:28) FORM vf_vis 6 all_colorvisible YES 
+\i (02:58:34) setwindow pcb
+\i (02:58:34) pick grid 203.6 2186.5
+\t (02:58:34) last pick:  200.0 2175.0
+\i (02:58:35) open 
+\e (02:58:35) Do you want to save the changes you made to C:/Users/user/Desktop/ex/samples/layout_samples_r02/layout_samples_r02/demob/demob2.brd?
+\i (02:58:37) fillin yes 
+\i (02:58:41) fillin "C:\Users\user\Desktop\ex\samples\layout_samples_r02\layout_samples_r02\democ\democ2.brd"
+\i (02:58:41) cd "C:\Users\user\Desktop\ex\samples\layout_samples_r02\layout_samples_r02\democ"
+\t (02:58:41) Opening existing design...
+\i (02:58:41) trapsize 634
+\t (02:58:41)     Journal end - Wed Jul 17 14:44:27 2019
